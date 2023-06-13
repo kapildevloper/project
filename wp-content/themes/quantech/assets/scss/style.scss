@@ -1,0 +1,48 @@
+/*
+Theme Name: Quantech
+Author: Modina Theme
+Author URI: https://themeforest.net/user/modinatheme/
+Theme URI: https://modinatheme.com/quantech/
+Description: IT Solutions and Technology WordPress Theme
+Version: 1.1.0
+*/
+
+// BASIC
+@import 'basic';
+// MIXIN
+@import 'variables';
+// TYPOGRAPHY
+@import 'typography';
+// MIX
+@import 'mix';
+// HELPER
+@import 'helper';
+// ANIMATION
+@import 'animation';
+// Button 
+@import 'btn';
+// Preloader 
+@import 'preloader';
+
+// WP Default CSS - Style
+@import 'wp';
+
+/* ----------------------------------
+    Template Section Styles
+ ------------------------------------*/
+
+// Menu - Header Section 
+@import 'header';
+
+// Section Title - Heading 
+@import 'section';
+
+// Blog - Section 
+@import 'blog';
+
+// elmentor addons - widgets 
+@import 'addons';
+@import 'newsaddons';
+
+// footer - Section 
+@import 'footer';

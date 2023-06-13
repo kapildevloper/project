@@ -1,0 +1,35 @@
+
+---Downloaded files---
+The import files for: Home 1 were successfully downloaded!
+Initial max execution time = 120000
+Files info:
+Site URL = http://localhost/Somali
+Data file = C:\xampp\htdocs\Somali/wp-content/themes/quantech/inc/demo/contents.xml
+Widget file = C:\xampp\htdocs\Somali/wp-content/themes/quantech/inc/demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+quantech_opt -> C:\xampp\htdocs\Somali/wp-content/themes/quantech/inc/demo/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: quantech_opt finished successfully!
+
+---ocdi/after_import---
+

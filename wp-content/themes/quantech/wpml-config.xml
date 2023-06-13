@@ -1,0 +1,39 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">e-landing-page</custom-type>
+    <custom-type translate="0">elementor_library</custom-type>
+    <custom-type translate="0">elementor-hf</custom-type>
+    <custom-type translate="0">project</custom-type>
+    <custom-type translate="0">wp-types-group</custom-type>
+    <custom-type translate="0">wp-types-user-group</custom-type>
+    <custom-type translate="0">wp-types-term-group</custom-type>
+    <custom-type translate="0">acf-field-group</custom-type>
+    <custom-type translate="0">acf-field</custom-type>
+    <custom-type translate="0">wpcf7_contact_form</custom-type>
+  </custom-types>
+
+  <taxonomies>
+    <taxonomy translate="0">elementor_library_type</taxonomy>
+    <taxonomy translate="0">elementor_library_category</taxonomy>
+    <taxonomy translate="0">translation_priority</taxonomy>
+    <taxonomy translate="0">project_cat</taxonomy>
+  </taxonomies>
+
+  <admin-texts>
+      <key name="quntach_opt">
+        <key name="error_title"/>
+        <key name="error_subtitle"/>
+        <key name="error_btn_label"/>
+        <key name="menu_btn_label"/>
+        <key name="blog_title"/>
+        <key name="share_heading"/>
+        <key name="footer_copyright_content"/>
+        <key name="preloader_title"/>
+        <key name="loading_text"/>
+        <key name="phone_number"/>
+        <key name="email_addres"/>
+        <key name="main_text_logo"/>
+        <key name="menu"/>
+      </key>
+  </admin-texts>
+</wpml-config>
